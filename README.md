@@ -1,6 +1,6 @@
 ## Oh No! Broken Code!
 
-This repository has a few files that need a lot of love. Can you fix the errors and add the missing code?
+This repository has a few files that need a small amount of love. Can you fix the errors and add the missing code?
 
 Difficulty Order:
 
